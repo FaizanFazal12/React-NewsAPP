@@ -1,0 +1,8 @@
+ <Route path="/business"><News pageSize="5" country="in" category="science"/></Route>
+ <Route path="/entertainment"><News pageSize="5" country="in" category="science"/></Route>
+ <Route path="/general"><News pageSize="5" country="in" category="science"/></Route>
+ <Route path="/health"><News pageSize="5" country="in" category="science"/></Route>
+ <Route path="/sciences"><News pageSize="5" country="in" category="science"/></Route>
+ <Route path="/portstechnology"><News pageSize="5" country="in" category="science"/></Route>
+
+
